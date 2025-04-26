@@ -1,0 +1,45 @@
+Text: File Statistics -> Link: filestats.html
+Text: main page -> Link: index.html
+Text: Disclaimer -> Link: disclaimer.html
+Text: 100 -> Link: 100
+Text: Adventure -> Link: adventure
+Text: Anarchy -> Link: anarchy
+Text: Apple II's -> Link: apple
+Text: Artwork -> Link: art
+Text: BBS -> Link: bbs
+Text: Computers -> Link: computers
+Text: Conspiracy -> Link: conspiracy
+Text: Drugs -> Link: drugs
+Text: E-Texts -> Link: etext
+Text: Food -> Link: food
+Text: Fun -> Link: fun
+Text: Games -> Link: games
+Text: Groups -> Link: groups
+Text: Hack -> Link: hacking
+Text: Ham Radio -> Link: hamradio
+Text: Holiday -> Link: holiday
+Text: Humor -> Link: humor
+Text: Internet -> Link: internet
+Text: Law -> Link: law
+Text: Magazines -> Link: magazines
+Text: Mass Media -> Link: media
+Text: Messages -> Link: messages
+Text: Music -> Link: music
+Text: News -> Link: news
+Text: Occult -> Link: occult
+Text: Phreak -> Link: phreak
+Text: Piracy -> Link: piracy
+Text: Politics -> Link: politics
+Text: Programming -> Link: programming
+Text: School Reports -> Link: reports
+Text: Role Playing Games -> Link: rpg
+Text: Science -> Link: science
+Text: Sex and Sexuality -> Link: sex
+Text: Science Fiction -> Link: sf
+Text: Stories -> Link: stories
+Text: Survival -> Link: survival
+Text: UFO -> Link: ufo
+Text: Uploads -> Link: uploads
+Text: Viruses -> Link: virus
+Text: Click here -> Link: wdirectory.html
+Text: jason@textfiles.com -> Link: mailto:jason@textfiles.com
